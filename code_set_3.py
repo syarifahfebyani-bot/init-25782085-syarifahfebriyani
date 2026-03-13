@@ -4,4 +4,5 @@ def avg(data):
         total += d
     return total/len(data)
 
+
 print(avg([]))
